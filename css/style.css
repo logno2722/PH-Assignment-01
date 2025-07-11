@@ -1,0 +1,226 @@
+
+
+/*inter font*/
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/*raleway font*/
+
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+body{
+    background-color: #F5F8FF;
+    
+}
+
+.header{
+    background-image: url('../Assets/Hero-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+ .nav-title{
+    font-weight: bolder;
+    font-size: 34px;
+    color: #4E47FF;
+ }
+ .btn-primary{
+    padding: 12px 36px;
+    background-color: #4E47FF;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+     transition: background-color 0.3s ease;
+ }
+.btn-primary:hover{
+      background-color: #45a049;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 150px;
+}
+.middle-text{
+    text-align: center;
+    margin: 180px 267px;
+    
+}
+.middle-text-title{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.preview-title{
+    color: #252432;
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.preview-description{
+    color: #9b99b3;
+    font-size: 24px;
+    font-weight: normal;
+}
+.preview-size{
+    padding-top: 62px;
+    padding-bottom: 62px;
+    
+}
+.wc-mini{
+    border-radius: 48px;
+    height: 328px;
+    width: 430px;
+}
+.preview{
+    display:flex;
+    align-items: center;
+    margin: 116px 141px 116px 141px;
+    gap: 220px;
+
+}
+
+  body {
+      background-color: #f5f7ff;
+    }
+
+    .p-user {
+      width: 900px;
+      margin: 130px auto;
+      background-color: #dbdaff;
+      border-radius: 24px;
+      padding: 50px 40px;
+      text-align: center;
+    }
+
+    .p-user-title {
+      color: #252432;
+      font-size: 28px;
+      font-weight: bold;
+      margin-bottom: 40px;
+    }
+
+    .state {
+      display: flex;
+      justify-content: center;
+      gap: 100px;
+    }
+
+    .state-item {
+      text-align: center;
+    }
+
+    .state-title {
+      color: #4E47FF;
+      font-size: 48px;
+      font-weight: bold;
+      margin-bottom: 8px;
+    }
+
+    .state-description {
+      color: #545454;
+      font-size: 14px;
+    }
+
+
+    /*review..............*/
+
+    body {
+      background-color: #f5f7ff;
+      margin: 0;
+      padding: 40px 0;
+    }
+
+    .review-section {
+      width: 1140px;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .review-section h2 {
+      font-size: 32px;
+      color: #252432;
+      margin-bottom: 40px;
+    }
+
+    .reviews {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    .review-card {
+      background-color: #fff;
+      border: 1px solid #d6d6d6;
+      border-radius: 10px;
+      padding: 20px;
+      width: 100%;
+      box-shadow: 0 0 5px #0000000D;
+    }
+
+    .stars {
+      margin-bottom: 15px;
+      display: flex;
+      justify-content: center;
+      gap: 4px;
+    }
+
+    .stars img {
+      width: 30px; 
+      height: 30px;
+    }
+
+    .review-title {
+      font-size: 18px;
+      font-weight: bold;
+      margin-bottom: 10px;
+      color: #252432;
+    }
+
+    .review-text {
+      font-size: 14px;
+      color: #555;
+      margin-bottom: 20px;
+    }
+
+    .review-footer {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .review-footer img {
+      width: 35px;
+      height: 35px;
+      border-radius: 50%;
+    }
+
+    .reviewer-info {
+      text-align: left;
+    }
+
+    .reviewer-info p {
+      margin: 0;
+      font-size: 14px;
+    }
+
+    .reviewer-info .name {
+      font-weight: bold;
+      color: #333;
+    }
+
+    .reviewer-info .date {
+      font-size: 12px;
+      color: #999;
+    }
