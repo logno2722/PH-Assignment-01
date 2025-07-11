@@ -291,6 +291,11 @@ form input, textarea {
     border: 1px solid #D6DDED;
     padding: 20px 32px;
 }
+ form .btn-primary { 
+    width: 100%; 
+    font-size: 16px; 
+    margin-top: 10px; 
+}
 
 
 /*........................footer...................*/
